@@ -1,0 +1,19 @@
+.red-highlighted {
+    background-color: rgba(255, 0, 0, 0.4);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.red-highlighted.large-text {
+    font-size: 24px;
+}
+
+#blue-text {
+    color:blue; 
+    font-size: 36px; 
+}
+
+#green-highlighted {
+    background-color: rgba(0, 255, 0, 0.4);
+    font-size: 24px;
+    font-weight: bold;
+}
